@@ -1,1 +1,1 @@
-# CryptoMarketPredictor
+# CapstoneLLMCrypto
